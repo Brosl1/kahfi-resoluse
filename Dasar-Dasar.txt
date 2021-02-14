@@ -1,5 +1,6 @@
 Dasar Web Development
 -basic terminal usage
+-licenses
 -data structures dan algorithms
 -solid, kiss, yagni
 -Github
